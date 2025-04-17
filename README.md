@@ -49,12 +49,6 @@
 </td>
   </tr>
 </table>
----
----
-
-## 🐍 GitHub Activity Snake
-
-![Snake animation](https://raw.githubusercontent.com/adarilahari/adarilahari/output/github-contribution-grid-snake.svg)
 
 ---
 
